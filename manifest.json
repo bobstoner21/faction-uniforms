@@ -1,1 +1,4 @@
-
+{
+  "1": { "name": "Форма охраны", "dff": "models/uniform1.dff", "txd": "models/uniform1.txd", "version": 1 },
+  "2": { "name": "Форма офицера", "dff": "models/uniform2.dff", "txd": "models/uniform2.txd", "version": 1 }
+}
